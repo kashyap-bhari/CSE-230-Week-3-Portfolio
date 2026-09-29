@@ -1,6 +1,6 @@
-# CSE 230 Week 2 Portfolio
+# CSE 230 Week 3 Portfolio
 
-This repository contains my Week 2 portfolio assignment for CSE 230 Web Design and Development.
+This repository contains my Week 3 portfolio assignment for CSE 230 Web Design and Development.
 
 ## Files
 
@@ -14,4 +14,4 @@ This repository contains my Week 2 portfolio assignment for CSE 230 Web Design a
 
 The portfolio is published with GitHub Pages:
 
-https://kashyap-bhari.github.io/CSE-230-Week-2-Portfolio/
+https://kashyap-bhari.github.io/CSE-230-Week-3-Portfolio/
